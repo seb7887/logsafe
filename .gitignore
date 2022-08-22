@@ -1,0 +1,12 @@
+# Coverage
+*.out
+*.html
+
+# MacOS
+.DS_Store
+
+# JetBrains
+.idea
+
+# SonarQube
+.scannerwork

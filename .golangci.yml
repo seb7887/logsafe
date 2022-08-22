@@ -1,0 +1,17 @@
+linters:
+  disable-all: true
+  enable:
+    - revive
+    - misspell
+    - gosimple
+    - gofmt
+    - gosec
+    - govet
+    - gosimple
+    - importas
+    - gocyclo
+    - deadcode
+    - decorder
+    - errcheck
+    - nestif
+    - unconvert
